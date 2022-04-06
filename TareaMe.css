@@ -1,0 +1,155 @@
+.titulo{
+    font-size:80px;
+    font-family: "Exo";
+    padding-top: 70pt;
+    padding-left: 90pt;
+}
+
+.name{
+    font-size:50px;
+    font-family: "Century Gothic";
+    padding-top: 10pt;
+    padding-left: 90pt;
+    padding-right: 500pt;
+}
+
+.age {
+    font-family: Century Gothic;
+    font-size: 20pt;
+    padding-top: 20pt;
+    padding-left: 90pt;
+    padding-right: 500pt;
+  }
+
+body{
+    background: linear-gradient(260deg,rgb(43, 42, 42) 0%, black 100%);
+    color: white;
+    margin-left: 0;
+} 
+
+.Imagen{
+    position: absolute;
+    left: 1280px;
+    top: 40px;
+ }
+ 
+ .title {
+     font-family: Century Gothic;
+     font-size: 30pt;
+     padding-top: 100pt;
+     text-align: center;
+   }
+
+ .p1 {
+      font-family: Exo;
+      font-size: 17pt;
+      padding-top: 20pt;
+      padding-left: 100pt;
+      padding-right: 100pt;
+      text-align: center;
+   } 
+ 
+   .p2 {
+    font-family: Exo;
+    font-size: 17pt;
+    padding-top: 40pt;
+    text-align: center;
+ } 
+
+ .p3 {
+    font-family: Exo;
+    font-size: 17pt;
+    padding-top: 40pt;
+    text-align: center;
+ } 
+
+ .p4 {
+    font-family: Exo;
+    font-size: 17pt;
+    padding-top: 40pt;
+    text-align: center;
+ } 
+
+ .fibo {
+  font-family: Exo;
+  font-size: 25pt;
+  padding-top: 90pt;
+  padding-left: 10pt;
+  padding-right: 900pt;
+} 
+
+.Boton1 {
+  display: block;
+  color: black;
+  font-family: Exo;
+  font-size: 15pt;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  background-color: pink;
+  position: absolute;
+  left: 1000px;
+  top: 1180px;
+
+}
+
+.Box {
+  display: block;
+  color: black;
+  font-family: Exo;
+  font-size: 15pt;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  background-color: pink;
+  position: absolute;
+  left: 600px;
+  top: 1180px;
+
+}
+
+.fact {
+  font-family: Exo;
+  font-size: 25pt;
+  padding-top: 110pt;
+  padding-left: 10pt;
+  padding-right: 900pt;
+} 
+
+.Boton2 {
+  display: block;
+  color: black;
+  font-family: Exo;
+  font-size: 15pt;
+  text-align: center;
+  padding: 10px 25px;
+  text-decoration: none;
+  background-color: pink;
+  position: absolute;
+  left: 1000px;
+  top: 1400px;
+
+}
+
+.Box2 {
+  display: block;
+  color: black;
+  font-family: Exo;
+  font-size: 15pt;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  background-color: pink;
+  position: absolute;
+  left: 600px;
+  top: 1400px;
+
+}
+
+
+.will{
+  position: absolute;
+  left: 1500px;
+  top: 1200px;
+  visibility: hidden;
+}
